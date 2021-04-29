@@ -1,0 +1,9 @@
+form {
+    display: none;
+}
+
+.displayed {
+    display: initial;
+}
+
+/* test */
